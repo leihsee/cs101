@@ -1,0 +1,7 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/003/383/869/large_2x/notebook-pen-and-leaf-is-placed-on-white-background-free-photo.jpg");
+    color: rgb(6, 123, 225);
+    text-align: center;
+    
+  }
+  
